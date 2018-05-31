@@ -30,3 +30,4 @@ if __name__ == '__main__':
     for event in pygame.event.get(pygame.QUIT):
         exit(0)
 ```
+![](/assets/images/pygame_test.gif)
